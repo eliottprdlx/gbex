@@ -1,1 +1,1 @@
-Python implementation of the paper "Jasper Velthoen, Clément Dombry, Juan-Juan Cai & Sebastian Engelke (2021). Gradient boosting for extreme quantile regression".
+Python implementation of the paper Jasper Velthoen et al. “Gradient boosting for extreme quantile regression”. In: Extremes 26.4 (2023), pp. 639–667. doi: 10.1007/s10687-023-00473-x.
